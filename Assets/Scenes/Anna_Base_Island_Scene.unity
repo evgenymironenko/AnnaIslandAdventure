@@ -14,7 +14,7 @@ OcclusionCullingSettings:
 RenderSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 9
-  m_Fog: 1
+  m_Fog: 0
   m_FogColor: {r: 0.39215687, g: 0.47843137, b: 0.5372549, a: 1}
   m_FogMode: 1
   m_FogDensity: 0.01
@@ -1212,7 +1212,7 @@ Terrain:
   m_DrawTreesAndFoliage: 1
   m_StaticShadowCaster: 0
   m_ReflectionProbeUsage: 1
-  m_MaterialTemplate: {fileID: 2100000, guid: c6fad3276e422456e90df60154cb5a78, type: 2}
+  m_MaterialTemplate: {fileID: 2100000, guid: 8675c0e1303a44f11859320811b39c76, type: 2}
   m_BakeLightProbesForTrees: 1
   m_PreserveTreePrototypeLayers: 1
   m_DeringLightProbesForTrees: 0
@@ -1322,7 +1322,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 267988763}
-  m_LocalRotation: {x: 0.0796451, y: -0.00000001715172, z: 0.0000000013704037, w: 0.9968233}
+  m_LocalRotation: {x: 0.0796451, y: 0.000000017151727, z: -0.0000000013704042, w: 0.9968233}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -3817,7 +3817,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 811329718}
-  m_LocalRotation: {x: 0.0796451, y: -0.00000003430344, z: 0.0000000027408078, w: 0.9968233}
+  m_LocalRotation: {x: 0.0796451, y: 0.000000034303444, z: -0.000000002740808, w: 0.9968233}
   m_LocalPosition: {x: 0, y: 3, z: -7}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -8924,7 +8924,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1870228919}
-  m_LocalRotation: {x: 0.15037599, y: 0.000000029463434, z: -0.0000000044815534, w: 0.9886289}
+  m_LocalRotation: {x: 0.15037598, y: -7.1054274e-15, z: 8.8817826e-16, w: 0.9886289}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
