@@ -66,7 +66,7 @@ MonoBehaviour:
   allowGameplayDuringConversations: 0
   walkToHotspotMarkers: 1
   shareInventory: 0
-  inventoryDragDrop: 0
+  inventoryDragDrop: 1
   dragDropThreshold: 0
   allowInventoryInteractionsDuringConversations: 0
   inventoryDropLook: 0
@@ -144,12 +144,12 @@ MonoBehaviour:
   linearColorTextures: 0
   relyOnSafeArea: 1
   movingTurning: 3
-  hotspotDetection: 0
+  hotspotDetection: 1
   closeInteractionMenusIfPlayerLeavesVicinity: 0
   placeDistantHotspotsOnSeparateLayer: 1
   hotspotsInVicinity: 0
-  hotspotIconDisplay: 0
-  hotspotIcon: 0
+  hotspotIconDisplay: 2
+  hotspotIcon: 1
   hotspotIconTexture: {fileID: 0}
   hotspotIconGraphic:
     texture: {fileID: 0}
