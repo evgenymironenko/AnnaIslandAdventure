@@ -24,19 +24,19 @@ MonoBehaviour:
   displayNarrationForever: 0
   playAnimationForever: 1
   canSkipWithMouseClicks: 1
-  minimumDisplayTime: 1
-  screenTimeFactor: 0.1
-  allowSpeechSkipping: 0
+  minimumDisplayTime: 0.2
+  screenTimeFactor: 0.5
+  allowSpeechSkipping: 1
   allowGameplaySpeechSkipping: 0
-  skipThresholdTime: 0
+  skipThresholdTime: 0.2
   endScrollBeforeSkip: 0
   ifSkipWhileScrolling: 0
   scrollingTextFactorsLength: 0
   syncSubtitlesToAudio: 0
   useAssetBundles: 0
   searchAudioFiles: 1
-  autoNameSpeechFiles: 1
-  referenceSpeechFiles: 0
+  autoNameSpeechFiles: 0
+  referenceSpeechFiles: 1
   autoSpeechFolder: Speech
   autoLipsyncFolder: Lipsync
   forceSubtitles: 1

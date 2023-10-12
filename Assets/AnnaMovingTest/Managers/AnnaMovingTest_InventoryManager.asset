@@ -13,10 +13,10 @@ MonoBehaviour:
   m_Name: AnnaMovingTest_InventoryManager
   m_EditorClassIdentifier: 
   items:
-  - label: Inventory item 1
+  - label: Camera
     id: 0
     altLabel: 
-    carryOnStart: 0
+    carryOnStart: 1
     carryOnStartNotDefault: 0
     carryOnStartIDs: 00000000
     vars: []
@@ -25,10 +25,65 @@ MonoBehaviour:
     canBeLowerCase: 0
     maxCount: 999
     itemStackingMode: 0
-    tex: {fileID: 0}
-    activeTex: {fileID: 0}
+    tex: {fileID: 2800000, guid: edb7221d77d5a43cd910b4fdca040e47, type: 3}
+    activeTex: {fileID: 2800000, guid: 34edfc4b7048c4d419a0921f4abed6b9, type: 3}
     selectedTex: {fileID: 0}
-    linkedPrefab: {fileID: 0}
+    linkedPrefab: {fileID: 5421770577227521870, guid: 4f58acb6f5f3842f596c8f00235b0b25, type: 3}
+    cursorIcon:
+      texture: {fileID: 0}
+      isAnimated: 0
+      numFrames: 1
+      numRows: 1
+      numCols: 1
+      size: 0.04
+      animSpeed: 4
+      endAnimOnLastFrame: 0
+      skipFirstFrameWhenLooping: 0
+      clickOffset: {x: 0, y: 0}
+      frameSpeeds: []
+      alwaysAnimate: 0
+      dontCycle: 0
+      label: Icon 1
+      lineID: -1
+      id: 0
+    lineID: -1
+    useIconID: 0
+    binID: -1
+    overrideUseSyntax: 0
+    hotspotPrefix1:
+      label: Use
+      lineID: -1
+    hotspotPrefix2:
+      label: on
+      lineID: -1
+    useActionList: {fileID: 0}
+    lookActionList: {fileID: 0}
+    interactions: []
+    combineInteractions: []
+    combineActionList: []
+    combineID: 
+    unhandledActionList: {fileID: 0}
+    unhandledCombineActionList: {fileID: 0}
+    carryOnStartID: -1
+    useSeparateSlots: 0
+    selectSingle: 0
+    showInFilter: 1
+  - label: iPhone
+    id: 1
+    altLabel: 
+    carryOnStart: 1
+    carryOnStartNotDefault: 0
+    carryOnStartIDs: 00000000
+    vars: []
+    canCarryMultiple: 0
+    count: 1
+    canBeLowerCase: 0
+    maxCount: 999
+    itemStackingMode: 0
+    tex: {fileID: 2800000, guid: 57fec847cc87b428f944c238f3d0cb3e, type: 3}
+    activeTex: {fileID: 2800000, guid: 57fec847cc87b428f944c238f3d0cb3e, type: 3}
+    selectedTex: {fileID: 0}
+    linkedPrefab: {fileID: 2891333905078152677, guid: 506af8389a2ec4581b2d972b696d35d4, type: 3}
     cursorIcon:
       texture: {fileID: 0}
       isAnimated: 0

@@ -742,8 +742,8 @@ MonoBehaviour:
   phonemeParameter: 
   phonemeNormalisedParameter: 
   lipSyncGroupID: 0
-  leftHandBone: {fileID: 0}
-  rightHandBone: {fileID: 0}
+  leftHandBone: {fileID: 8231849002166039185}
+  rightHandBone: {fileID: 3581680088523724954}
   idleAnim: {fileID: 0}
   walkAnim: {fileID: 0}
   runAnim: {fileID: 0}
@@ -757,7 +757,7 @@ MonoBehaviour:
   upperBodyBone: {fileID: 0}
   leftArmBone: {fileID: 0}
   rightArmBone: {fileID: 0}
-  neckBone: {fileID: 0}
+  neckBone: {fileID: 8245376707392502592}
   animCrossfadeSpeed: 0.2
   groundCheckLayerMask: 1
   moveSpeedParameter: Speed
@@ -881,7 +881,7 @@ CharacterController:
   m_StepOffset: 0.3
   m_SkinWidth: 0.08
   m_MinMoveDistance: 0.001
-  m_Center: {x: 0, y: 1.03, z: 0}
+  m_Center: {x: 0, y: 1.09, z: 0}
 --- !u!1 &2811375669497100632
 GameObject:
   m_ObjectHideFlags: 0
